@@ -16,7 +16,7 @@ Arch
 Ubuntu/Debian
 	sudo apt install adb fastboot
 Fedora
-	sudo dnf inStall android-tools
+	sudo dnf install android-tools
 Opensuse
 	sudo zypper in android-tools
 Gentoo 
