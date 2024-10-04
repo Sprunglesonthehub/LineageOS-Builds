@@ -1,3 +1,5 @@
+##### Build LineageOS for the Pixel 6
+
 Are you wanting to run LineageOS on your Pixel 6? Here is what you need to do:
 
 First open up your Pixel 6 and go to *about phone -> Build Number* and tap *Build Number 7 times*. You will have now unlocked the *Developer Settings*.
